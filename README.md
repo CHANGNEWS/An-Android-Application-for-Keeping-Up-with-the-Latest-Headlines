@@ -15,4 +15,6 @@ Setup API Key:
                                   NewsApi_ApiKey="YOUR_API_KEY"
                                   
 Demo video link:
-                       
+     link: https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/blob/main/Project%20demo.mp4
+Source code:
+      link:
