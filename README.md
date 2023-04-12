@@ -21,6 +21,7 @@ Source code:
       link:https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/tree/main/src
       
 Brainstorm link:
+https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/blob/main/BrainStorm.pdf
 
 
 Empathy map link:
