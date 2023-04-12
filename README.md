@@ -21,18 +21,14 @@ Setup API Key:
                                   NewsApi_ApiKey="YOUR_API_KEY"
                                   
 Demo video link:
-
-     link: https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/blob/main/Project%20demo.mp4
+       link: https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/blob/main/Project%20demo.mp4
      
 Source code:
-
-      link:https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/tree/main/src
+       link:https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/tree/main/src
       
 Brainstorm link:
-
-https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/blob/main/BrainStorm.pdf
+       https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/blob/main/BrainStorm.pdf
 
 
 Empathy map link:
-
-https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/blob/main/Empathy%20map.pdf
+       https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/blob/main/Empathy%20map.pdf
