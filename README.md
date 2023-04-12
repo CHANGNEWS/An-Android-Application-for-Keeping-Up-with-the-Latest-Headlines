@@ -16,5 +16,11 @@ Setup API Key:
                                   
 Demo video link:
      link: https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/blob/main/Project%20demo.mp4
+     
 Source code:
-      link:
+      link:https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/tree/main/src
+      
+Brainstorm link:
+
+
+Empathy map link:
