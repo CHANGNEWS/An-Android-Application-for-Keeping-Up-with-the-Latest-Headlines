@@ -32,3 +32,6 @@ Brainstorm link:
 
 Empathy map link:
        https://github.com/CHANGNEWS/An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/blob/main/Empathy%20map.pdf
+       
+Google Developers Profile Link:
+       https://g.dev/devhari2002
